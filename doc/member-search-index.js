@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"application","c":"Word_OccurenceDB","l":"start(Stage)","u":"start(javafx.stage.Stage)"},{"p":"application","c":"Word_OccurenceDB","l":"Word_OccurenceDB()","u":"%3Cinit%3E()"}];updateSearchResults();
